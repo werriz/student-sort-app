@@ -11,7 +11,7 @@
     <description>Vaadin 11 web app</description>
 
     <properties>
-        <vaadin.version>11.0.3</vaadin.version>
+        <vaadin.version>14.4.10</vaadin.version>
     </properties>
 
     <prerequisites>
